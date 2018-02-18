@@ -1,3 +1,13 @@
 body {
-    background-color: red;
+    font-style: Arial;
+    font-size: 25px;
+    background-image: url("https://timedotcom.files.wordpress.com/2017/01/female-billionaires-statistics.jpg");
+    background-size: auto;
+    text-align: center;
+    padding-top: 150px;
+}
+
+p {
+    font-size: 30px;
+    font-weight: bold;
 }
